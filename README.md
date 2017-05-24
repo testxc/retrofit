@@ -6,7 +6,7 @@ Type-safe HTTP client for Android and Java by Square, Inc.
 For more information please see [the website][1].
 
 
-Download
+Downloadd
 --------
 
 Download [the latest JAR][2] or grab via Maven:
@@ -57,4 +57,4 @@ License
 
  [1]: http://square.github.io/retrofit/
  [2]: https://search.maven.org/remote_content?g=com.squareup.retrofit2&a=retrofit&v=LATEST
- [snap]: https://oss.sonatype.org/content/repositories/snapshots/
+ [snap]: https://oss.sonatype.org/content/repositories/snapshots/  
